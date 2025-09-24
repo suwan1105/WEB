@@ -1,0 +1,28 @@
+*{
+    color: black;
+}
+
+#special{
+    color: rgb(152, 20, 143);
+}
+
+#age{
+    color: rgb(91, 77, 244);
+}
+
+.section{
+    background: rgb(247, 209, 238);
+    border-radius: 10px;
+}
+
+.photos{
+   background: rgb(221, 244, 189);
+   border-radius: 10px;
+}
+
+
+
+button:hover{
+    color:blue;
+}
+
